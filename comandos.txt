@@ -1,0 +1,6 @@
+npm init -y
+npm i typescript ts-node-dev -D
+npx tsc --init
+npm i graphql class-validator type-graphql
+npm i apollo-server
+npm i reflect-metadata
